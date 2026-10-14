@@ -50,7 +50,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZixiangZhouSCAU&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" alt="成就" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZixiangZhouSCAU&theme=dracula" alt="Profile 详情" /></a>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZixiangZhouSCAU&theme=dracula" alt="语言分布" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZixiangZhouSCAU&theme=dracula" alt="最常提交语言" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZixiangZhouSCAU&theme=dracula" alt="统计" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZixiangZhouSCAU&theme=dracula&utcOffset=8" alt="高产时段" />
 </p>
 
 ---
