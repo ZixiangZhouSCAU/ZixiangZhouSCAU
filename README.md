@@ -67,15 +67,6 @@
 
 ---
 
-## 🌸 二次元补给站
-
-<div align="center">
-  <img src="https://www.dmoe.cc/random.php" alt="随机二次元图片" width="460" />
-  <p><em>每刷新一次，都会遇见一张新的图 ♪（来自网络随机图 API，偶尔抽风请再刷一次）</em></p>
-</div>
-
----
-
 ## 🤝 联系我
 
 <p align="center">
